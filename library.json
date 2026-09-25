@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "tracks": [
+    {
+      "id": "rise-up",
+      "title": "Rise Up",
+      "url": "sounds/RiseUp.mp3"
+    },
+    {
+      "id": "yellow",
+      "title": "Yellow",
+      "artist": "Coldplay",
+      "url": "sounds/Yellow.mp3"
+    },
+    {
+      "id": "something-just-like-this",
+      "title": "Something Just Like This",
+      "artist": "The Chainsmokers & Coldplay",
+      "url": "sounds/SomethingJustLikeThis.mp3"
+    },
+    {
+      "id": "shots",
+      "title": "Shots",
+      "artist": "Imagine Dragons",
+      "url": "sounds/Shots.mp3"
+    },
+    {
+      "id": "thunder",
+      "title": "Thunder",
+      "artist": "Imagine Dragons",
+      "url": "sounds/Thunder.mp3"
+    },
+    {
+      "id": "whatever-it-takes",
+      "title": "Whatever It Takes",
+      "artist": "Imagine Dragons",
+      "url": "sounds/WhateverItTakes.mp3"
+    },
+    {
+      "id": "medieval-gamer-voice",
+      "title": "Medieval Gamer Voice",
+      "url": "sounds/MedievalGamerVoice.mp3"
+    }
+  ]
+}
